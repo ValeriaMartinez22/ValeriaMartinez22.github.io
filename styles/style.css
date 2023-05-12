@@ -208,7 +208,7 @@ body {
 
 h2 {
     font-size: 38px;
-    color: #222222;
+    color: #efeded;
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
     margin: 0px 0 25px 0;
@@ -502,8 +502,8 @@ a.read_more, a.read_more2 {
     -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
     background: transparent;
-    color: #fff;
-    border: 1px solid #fff;
+    color: rgb(41, 41, 41);
+    border: 1px solid rgb(26, 24, 24);
 	margin:0 auto;
     text-transform: capitalize;
 }
