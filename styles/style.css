@@ -557,6 +557,7 @@ div#main-nav {
 }
 .service_wrapper {
   padding: 40px 0 40px;
+  align-items: center;
 }
 
 .service_section {
