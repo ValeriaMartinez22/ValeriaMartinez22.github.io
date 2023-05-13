@@ -746,6 +746,7 @@ a.contact_btn:hover {
   padding-left: 15px;
   width: auto !important;
   flex-wrap: wrap;
+  align-content: center;
 }
 
 .Portfolio-box {
