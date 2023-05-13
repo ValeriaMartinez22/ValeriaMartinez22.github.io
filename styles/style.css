@@ -745,6 +745,7 @@ a.contact_btn:hover {
   margin: 0 auto;
   padding-left: 15px;
   width: auto !important;
+  flex-wrap: wrap;
 }
 
 .Portfolio-box {
@@ -772,7 +773,7 @@ a.contact_btn:hover {
 }
 
 img {
-    width: auto;
+    width: 300pt;
     height: 150pt;
   /* max-width: 100%; */
 }
