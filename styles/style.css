@@ -772,7 +772,7 @@ a.contact_btn:hover {
 }
 
 img {
-    width: 220pt;
+    width: auto;
     height: 150pt;
   /* max-width: 100%; */
 }
