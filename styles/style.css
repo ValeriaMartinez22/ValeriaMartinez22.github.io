@@ -772,9 +772,9 @@ a.contact_btn:hover {
 }
 
 img {
-    width: 200pt;
+    width: 220pt;
     height: 150pt;
-  max-width: 100%;
+  /* max-width: 100%; */
 }
 
 /* no transition on .isotope container */
