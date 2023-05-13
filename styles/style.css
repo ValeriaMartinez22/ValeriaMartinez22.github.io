@@ -558,6 +558,7 @@ div#main-nav {
 .service_wrapper {
   padding: 40px 0 40px;
   align-content: center;
+  text-align: center;
 }
 
 .service_section {
@@ -747,6 +748,7 @@ a.contact_btn:hover {
   width: auto !important;
   flex-wrap: wrap;
   align-content: center;
+  text-align: center;
 }
 
 .Portfolio-box {
